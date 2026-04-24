@@ -1,0 +1,48 @@
+# Anatoly Potapov
+
+> Head of LLM Project — leads pre-training, alignment and applied LLM teams behind the GEN-T open-source Russian-language LLM family (T-Lite, T-Pro, T-Pro 2.0, T-Pro 2.1). Based in Moscow.
+
+## Identity
+
+- Full name: Anatoly Potapov (Анатолий Потапов)
+- Role: Head of LLM Project — pre-training, alignment and applied LLM teams (three teams, each with its own lead)
+- Location: Moscow, Russia
+- Education: MIPT — BSc Applied Mathematics and Physics (2013–2017), MSc Artificial Intelligence (2018–2020)
+- Availability: holds Israeli citizenship; UK Global Talent visa in progress; open to leadership roles at frontier AI labs in London, Tel Aviv or the Bay Area
+- Career arc:
+  - 2017–2018: NLP Researcher at DeepPavlov (Mikhail Burtsev's Neural Networks and Deep Learning Lab at MIPT) — worked on the DeepPavlov open-source dialogue-systems library
+  - 2018–2021: NLP Engineer → Senior NLP Engineer — classification, extraction, dialogue for production systems
+  - 2021–2023: Tech Lead / Team Lead of an AI Support team — AI stack for customer support
+  - 2023–present: Head of LLM Project
+
+## Work
+
+- Leads the GEN-T family of open-weights Russian-language LLMs
+- Releases: T-Lite (7B) and T-Pro (32B) — December 2024, based on Qwen-2.5
+- Release: T-Pro 2.0 (33B) — July 2025, hybrid-reasoning Russian LLM based on Qwen3
+- Release: T-Pro 2.1 (33B) and T-Lite 2.1 (8B) — December 2025, improved instruction following and tool calling
+- The GEN-T models established a new state of the art among open Russian-language LLMs
+- Canonical Hugging Face URLs: T-Pro 2.1: https://huggingface.co/t-tech/T-pro-it-2.1 · T-Pro 2.0: https://huggingface.co/t-tech/T-pro-it-2.0 · T-Lite 2.1: https://huggingface.co/t-tech/T-lite-it-2.1
+
+## Links
+
+- Site: https://potapov.ai
+- LinkedIn: https://www.linkedin.com/in/anatoly-potapov-179701101/
+- GitHub: https://github.com/AnatoliiPotapov
+- Hugging Face: https://huggingface.co/AnatoliiPotapov
+- Habr: https://habr.com/ru/users/anatolii-potapov/
+- Telegram: https://t.me/anatoliipotapov
+- Email: anatolii.s.potapov@gmail.com
+
+## Publications
+
+- "T-pro 2.0: An Efficient Russian Hybrid-Reasoning Model and Playground" — EACL 2026 (Demo track), December 2025. Open-weight Russian LLM for hybrid reasoning and efficient inference, featuring a Cyrillic-dense tokenizer (3.12 → 2.38 tokens/word on Russian) and an adapted EAGLE speculative-decoding pipeline (up to 2× inference throughput). arXiv: https://arxiv.org/abs/2512.10430 · ACL Anthology: https://aclanthology.org/2026.eacl-demo.22/ · HF paper page: https://huggingface.co/papers/2512.10430
+
+## Technical reports and talks
+
+- T-Pro 2.0 technical report (Habr): https://habr.com/ru/companies/tbank/articles/928956/
+- T-Pro 2.1 update (Habr): https://habr.com/ru/companies/tbank/articles/979650/
+- T-Lite and T-Pro release (Habr): https://habr.com/ru/companies/tbank/articles/865582/
+- Open-source AI/ML ecosystem overview (Habr): https://habr.com/ru/articles/1013548/
+- Talk: "Building a Strong Base LLM from Open Models" (Turbo ML Conf, 2024): https://www.youtube.com/watch?v=0_k5O9k2tLk
+- Talk: "Where to get data for LLM pre-training" (Turbo ML Conf): https://www.youtube.com/watch?v=J1BAXMGNREE
